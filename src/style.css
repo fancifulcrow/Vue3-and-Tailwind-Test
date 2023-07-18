@@ -6,10 +6,12 @@
     h1, h2, h3, h4, h5, h6 {
         @apply font-Arima;
     }
+
+    section {
+        @apply w-full h-screen;
+    }
 }
 
 @layer components{
-    .example{
-        @apply p-4 w-full bg-fuchsia-200 text-4xl text-pink-500 text-center;
-    }
+    
 }

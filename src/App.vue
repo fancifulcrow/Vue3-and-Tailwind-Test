@@ -1,5 +1,5 @@
 <template>
-  <div class="font-Mulish">
+  <div class="font-Mulish text-base">
     <RouterView/>
   </div>
 </template>
