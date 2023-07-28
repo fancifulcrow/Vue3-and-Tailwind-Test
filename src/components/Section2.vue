@@ -1,5 +1,5 @@
 <template>
-    <section class="bg-white text-black flex justify-center border-secondaryColor border-t-2">
+    <section class="bg-white text-black flex justify-center items-center border-secondaryColor border-t-2">
         <div class="text-center w-full h-full md:max-w-5xl sm:max-w-xl md:mx-8 grid md:grid-cols-2 grid-rows-2 grid-cols-1">
 
             <div class="overflow-hidden hidden md:block">
