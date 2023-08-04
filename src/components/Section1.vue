@@ -1,5 +1,5 @@
 <template>
-    <section class="bg-primaryColor border-secondaryColor border-t-2 flex justify-center items-center">
+    <section class="bg-primaryColor flex justify-center items-center">
         <div class="w-full max-w-5xl text-center py-16 px-8">
                 <span class="text-xs text-zinc-400 font-bold">FIRST OF ALL</span>
                 <h2 class="pt-4 pb-8 text-3xl">Discover the Art of Scented Candle Making</h2>
