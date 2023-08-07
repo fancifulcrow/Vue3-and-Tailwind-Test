@@ -7,8 +7,8 @@ export default {
   theme: {
     extend: {
       colors : {
-        primaryColor : "#F6EDE4",
-        secondaryColor : "#614634"
+        primaryColor : "#EFE1D1",
+        secondaryColor : "#3F2E3E"
       },
       fontFamily : {
         Arima: ["Arima, cursive"],

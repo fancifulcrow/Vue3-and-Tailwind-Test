@@ -13,5 +13,7 @@
 }
 
 @layer components{
-    
+    .input-field{
+        @apply py-3 px-2 border-solid border-secondaryColor border-2 rounded-md w-full mb-8;
+    }
 }
