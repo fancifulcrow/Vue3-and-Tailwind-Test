@@ -2,14 +2,16 @@
 
 Site is live at https://fancifulcrow.github.io/Vue3-and-Tailwind-Test-1/
 
-This is a simple webpage I made using Vue 3 and Tailwind CSS. The text is AI generated and the images are from [Pexels](https://pexels.com).
+This is a simple responsive webpage I made using Vue 3 and Tailwind CSS. The text is AI generated and the images are from [Pexels](https://pexels.com).
 
-## Used Tools
+## Tools Used
 - Vue 3
 - Tailwind CSS
-- Google Fonts
+- Google Fonts (Arima and Mulish)
 - Font Awesome
 
+## Screenshot of Webpage
+![Screenshot of Webpage](./src/assets/images/screenshot-desktop.jpg)
 
 ## Setup
 
