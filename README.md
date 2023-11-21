@@ -1,4 +1,4 @@
-# Vue 3 and Tailwind CSS Test 1
+# Vue 3 and Tailwind CSS Test
 
 Site is live at https://fancifulcrow.github.io/Vue3-and-Tailwind-Test-1/
 
