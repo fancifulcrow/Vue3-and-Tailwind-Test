@@ -1,6 +1,6 @@
 # Vue 3 and Tailwind CSS Test
 
-Site is live at https://fancifulcrow.github.io/Vue3-and-Tailwind-Test-1/
+Site is live at https://fancifulcrow.github.io/Vue3-and-Tailwind-Test/
 
 This is a simple responsive webpage I made using Vue 3 and Tailwind CSS. The text is AI generated and the images are from [Pexels](https://pexels.com).
 
